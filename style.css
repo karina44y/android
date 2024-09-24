@@ -1,0 +1,145 @@
+  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bebas+Neue&display=swap');
+
+  @import url('https://fonts.cdnfonts.com/css/idroid');
+
+  h1 {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    text-shadow: 3px 2px 6px rgba(0, 0, 0, 0.452);
+  }
+  
+  h2 {
+    font-family: "iDroid", sans-serif;
+  }
+
+  p {
+    font-family: Helvetica, sans-serif;
+  }
+
+  body {
+    background-color: #84e1ad;
+    margin: auto;
+  }
+
+  header {
+    background-image: linear-gradient(#6FE5A4, #39CD7B, #2DA060, #298F56, #1E693F);
+    padding: 5px 22px 0px 11px;
+  }
+
+  h1, .pe {
+    text-align: center;
+  }
+
+  .head {
+    color: white;
+  }
+
+  .pe {
+    color: white;
+    margin: 9px 0px 8px 0px;
+    text-shadow: 2px 0px 4px rgba(0, 0, 0, 0.644);
+    font-size: 1.2em;
+  }
+
+  .imagem {
+    width: 100%;
+    min-width: 400px;
+    max-width: 800px;
+  }
+
+  iframe {
+    width: 100%;
+
+  }
+
+  .back {
+    background-color: white;
+    box-shadow: 0px 7px 6px black;
+    min-width: 100px;
+    max-width: 800px;
+    margin: auto;
+    padding: 10px;
+  }
+
+  .inicio {
+    padding: 8px;
+    padding-left: 0px;
+  }
+
+
+  nav {
+    padding-bottom: 10px;
+  }
+
+  nav > a {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+
+  a:hover {
+    background-color: #c5ebd6;
+    color: #1E693F;
+    border-radius: 6px;
+    transition-duration: .5s;
+  }
+
+  img {
+    min-width: 200px;
+    max-width: 800px;
+    width: 100%;
+  }
+
+
+
+  li {
+    font-weight: 700;
+  }
+
+  h2 {
+    color: #306C4B;
+  }
+
+  .end {
+    background-color: #c5ebd6;
+    padding: 0px 0px 12px 6px;
+    border-radius: 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h3 {
+    margin: 0px;
+    color: white;
+    font-weight: 700;
+    background-color: #2FA866;
+    padding: 17px 6px 16px 13px;
+    margin: 0px 0px 0px -6px;
+    border-radius: 10px 10px;
+  }
+
+  .last {
+    margin: 0px;
+  }
+
+  footer {
+    background-color: #1E693F;
+    text-align: center;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    padding: 5px 0px 5px 0px;
+ }
+
+  p {
+    text-indent: 18px;
+    margin-left: 5px;
+ }
+
+  .bugdroid {
+    display: block;
+    margin: 0 auto;
+  }
